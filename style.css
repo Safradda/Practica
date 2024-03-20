@@ -1,0 +1,66 @@
+.container{
+        height: 100px;
+        width: 1000px;
+        background-color: #07eaf1;
+        margin: 0 auto;
+        padding: 20px;
+        font-display: 100px;
+        flex-flow: wrap row;
+        margin: 0%;
+        border-radius: 20px;
+
+}
+.blanco{
+    height: 500px;
+    width: 1000px;
+        background-color: #eceeee;
+        margin: 0 auto;
+        padding: 20px;
+        font-display: 100px;
+        flex-flow: wrap row;
+        margin: 0%;
+        margin-top: -400px;
+        
+}
+.img{
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin-top: -55px;
+    margin-left: 20px;
+    border-color: azure;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: 15px;
+    color: rgb(116, 114, 114);
+    
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    font-size: 30px; 
+}
+.boton{
+
+        color: white;
+        
+        border-radius: 20px;
+        
+        padding: 10px;
+        border-color: gray 1px;
+        cursor: pointer;
+        margin-left: 30px;
+}
+body{
+    background-image: url(https://static4.todobonito.com/m/2020/04/juego-minecraft-1-568x319.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
